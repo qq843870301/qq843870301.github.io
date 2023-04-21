@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,Q as e,t as c}from"./framework-6ff95823.js";const r={},d=e("h1",{id:"导出pdf",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#导出pdf","aria-hidden":"true"},"#"),c(" 导出PDF")],-1),o=[d];function n(_,f){return a(),s("div",null,o)}const h=t(r,[["render",n],["__file","jspdf.html.vue"]]);export{h as default};

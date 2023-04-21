@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,Q as e,t as c}from"./framework-6ff95823.js";const r={},o=e("h1",{id:"数据格式化",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#数据格式化","aria-hidden":"true"},"#"),c(" 数据格式化")],-1),n=[o];function _(d,i){return a(),s("div",null,n)}const h=t(r,[["render",_],["__file","js-beautify.html.vue"]]);export{h as default};

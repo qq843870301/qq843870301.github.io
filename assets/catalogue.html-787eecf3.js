@@ -1,0 +1,1 @@
+import{_ as t,M as o,p as c,q as n,N as r,Q as e,t as s}from"./framework-6ff95823.js";const _={},l=e("h1",{id:"目录",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#目录","aria-hidden":"true"},"#"),s(" 目录")],-1);function d(i,u){const a=o("Catalogue");return c(),n("div",null,[l,r(a)])}const f=t(_,[["render",d],["__file","catalogue.html.vue"]]);export{f as default};

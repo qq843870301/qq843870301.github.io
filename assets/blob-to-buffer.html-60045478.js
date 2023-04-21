@@ -1,0 +1,1 @@
+import{_ as o,p as t,q as r,Q as e,t as a}from"./framework-6ff95823.js";const c={},f=e("h1",{id:"blob转buffer",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#blob转buffer","aria-hidden":"true"},"#"),a(" blob转buffer")],-1),s=[f];function n(_,b){return t(),r("div",null,s)}const d=o(c,[["render",n],["__file","blob-to-buffer.html.vue"]]);export{d as default};

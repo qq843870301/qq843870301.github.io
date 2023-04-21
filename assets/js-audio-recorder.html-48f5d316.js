@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-af80567a","path":"/web/plugins/js-audio-recorder.html","title":"录音插件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"web/plugins/js-audio-recorder.md"}');export{e as data};

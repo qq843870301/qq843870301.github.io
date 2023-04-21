@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,Q as e,t as c}from"./framework-6ff95823.js";const o={},r=e("h1",{id:"右键菜单",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#右键菜单","aria-hidden":"true"},"#"),c(" 右键菜单")],-1),s=[r];function _(d,i){return a(),n("div",null,s)}const l=t(o,[["render",_],["__file","v-contextmenu.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0f3e1d63","path":"/web/plugins/monaco-editor.html","title":"代码编辑器","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"安装","slug":"安装","link":"#安装","children":[]}],"git":{"updatedTime":1673692475000,"contributors":[{"name":"CL","email":"843870301@qq.com","commits":1}]},"filePathRelative":"web/plugins/monaco-editor.md"}');export{e as data};

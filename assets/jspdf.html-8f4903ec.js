@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4d36fbda","path":"/web/plugins/jspdf.html","title":"导出PDF","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"web/plugins/jspdf.md"}');export{t as data};

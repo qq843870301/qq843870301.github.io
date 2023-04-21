@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1961d8d9","path":"/web/plugins/js-beautify.html","title":"数据格式化","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"web/plugins/js-beautify.md"}');export{t as data};

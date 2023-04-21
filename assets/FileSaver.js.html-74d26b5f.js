@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-036cd298","path":"/web/plugins/FileSaver.js.html","title":"保存文件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"web/plugins/FileSaver.js.md"}');export{e as data};

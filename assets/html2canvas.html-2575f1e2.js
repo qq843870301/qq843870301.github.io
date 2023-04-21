@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,Q as e,t as s}from"./framework-6ff95823.js";const n={},r=e("h1",{id:"html保存图片",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#html保存图片","aria-hidden":"true"},"#"),s(" html保存图片")],-1),o=[r];function _(h,l){return a(),c("div",null,o)}const i=t(n,[["render",_],["__file","html2canvas.html.vue"]]);export{i as default};
